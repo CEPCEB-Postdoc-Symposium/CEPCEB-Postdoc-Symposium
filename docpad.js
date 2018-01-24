@@ -40,6 +40,7 @@ module.exports = {
       'schedule',
       'location',
 	'sponsors',
+	'partners',
       'contact'
     ],
 
@@ -50,6 +51,7 @@ module.exports = {
       speakers: "Speakers",
       schedule: "Schedule",
       sponsors: "Sponsors",
+      partners: "Past Events",
       contact: "Contact"
     },
 
@@ -168,6 +170,14 @@ module.exports = {
       }
     ],
 
+// List of Partners
+    partners: [
+      {
+        name: "PastEvents",
+        logo: "themes/yellow-swan/img/pastevent.png",
+        url: "https://github.com/CEPCEB-Postdoc-Symposium/pastevents/raw/master/pastevents.pdf"
+      }
+    ],
     // Theme path
     getTheme: function() {
       return "themes/" + this.site.theme;
