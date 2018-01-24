@@ -27,8 +27,8 @@ module.exports = {
     // Site info
     site: {
       theme: "yellow-swan",
-      url: "http://braziljs.github.io/conf-boilerplate/",
-      googleanalytics: "UA-33656081-1"
+      url: "https://cepceb-postdoc-symposium.github.io/symposium/",
+      googleanalytics: "GTM-W532RCD"
     },
 
     // Active sections on the website
@@ -40,8 +40,7 @@ module.exports = {
       'schedule',
       'location',
 	'sponsors',
-      //'partners',
-       'contact'
+      'contact'
     ],
 
     // Labels which you can translate to other languages
@@ -51,7 +50,6 @@ module.exports = {
       speakers: "Speakers",
       schedule: "Schedule",
       sponsors: "Sponsors",
-      partners: "Partners",
       contact: "Contact"
     },
 
@@ -164,18 +162,9 @@ module.exports = {
     // List of Sponsors
     sponsors: [
       {
-        name: "Eventick",
-        logo: "themes/yellow-swan/img/sponsor.jpg",
-        url: "http://eventick.com.br"
-      }
-    ],
-
-    // List of Partners
-    partners: [
-      {
-        name: "BrazilJS",
-        logo: "themes/yellow-swan/img/partner.png",
-        url: "http://braziljs.org"
+        name: "CEPCEB",
+        logo: "themes/yellow-swan/img/sponsor.png",
+        url: "http://cepceb.ucr.edu/"
       }
     ],
 
