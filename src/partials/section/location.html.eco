@@ -1,15 +1,9 @@
-  <!-- LOCATION -->
-  <section class="location" id="location" itemprop="location" itemscope itemtype="http://schema.org/Place">
+<h2 class="section-title"><%= @labels['location'] %></h2>
 
-    <h2 class="section-title">Local</h2>
+<p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+  <span itemprop="streetAddress"><%= @conf.address %>. </span>
+  <span itemprop="addressLocality"><%= @conf.city %></span>,
+  <span itemprop="addressRegion"> <%= @conf.state %></span>
+</p>
 
-    <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-      <span itemprop="streetAddress">Escola dos Servidores do Poder Judiciário. </span>
-      <span itemprop="addressLocality"><%= @conf.city %></span>,
-      <span itemprop="addressRegion"> <%= @conf.state %></span>
-    </p>
-
-    <div id="map-canvas" class="location-area" data-address="<%= @conf.address %>"></div>
-
-  </section>
-  <!-- / LOCATION -->
+<div id="map-canvas" class="location-area" data-address="<%= @conf.address %>, <%= @conf.city %> - <%= @conf.state %>"></div>
