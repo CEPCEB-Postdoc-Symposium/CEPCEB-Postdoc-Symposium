@@ -58,105 +58,210 @@ module.exports = {
     // The entire schedule
     schedule: [
       {
-        name: "Check-in / Breakfast",
-        time: "9h00"
+        name: "Opening Remarks",
+        time: "8:30 AM"
       },
       {
-        name: "Linus Torvalds",
+        name: "FirstName LastName",
         photo: "themes/yellow-swan/img/speaker.png",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Linux Foundation",
+        bio: "Some information about the speaker",
+        company: "Post-Doctoral Fellow",
         link: {
-          href: "http://twitter.com/linus",
-          text: "@linus"
+          href: "https://www.researchgate.net/",
+          text: "HomePage"
         },
         presentation: {
-          title: "Digging into a Linux Kernel",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "10h00"
+          title: "Title",
+          description: "Short description",
+          time: "16:00 PM"
+        }
+      },
+       {
+        name: "FirstName LastName",
+        photo: "themes/yellow-swan/img/speaker.png",
+        bio: "Some information about the speaker",
+        company: "Post-Doctoral Fellow",
+        link: {
+          href: "https://www.researchgate.net/",
+          text: "HomePage"
+        },
+        presentation: {
+          title: "Title",
+          description: "Short description",
+          time: "9:00 AM"
         }
       },
       {
-        name: "Bill Gates",
+        name: "FirstName LastName",
         photo: "themes/yellow-swan/img/speaker.png",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Microsoft",
+        bio: "Some information about the speaker",
+        company: "Post-Doctoral Fellow",
         link: {
-          href: "http://github.com/billy95",
-          text: "@billy95"
+          href: "https://www.researchgate.net/",
+          text: "HomePage"
         },
         presentation: {
-          title: "Introducing Windows 12",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "11h00"
+          title: "Title",
+          description: "Short description",
+          time: "9:20 AM"
         }
       },
       {
-        name: "Lunch",
-        time: "12h00"
-      },
-      {
-        name: "Chuck Norris",
+        name: "FirstName LastName",
         photo: "themes/yellow-swan/img/speaker.png",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Delta Command",
+        bio: "Some information about the speaker",
+        company: "Post-Doctoral Fellow",
         link: {
-          href: "http://twitter.com/littlechuck",
-          text: "@littlechuck"
+          href: "https://www.researchgate.net/",
+          text: "HomePage"
         },
         presentation: {
-          title: "How to kill a elephant with one finger",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "13h00"
+          title: "Title",
+          description: "Short description",
+          time: "9:40 AM"
         }
       },
       {
-        name: "Steve Jobs",
+        name: "FirstName LastName",
         photo: "themes/yellow-swan/img/speaker.png",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Apple, Inc.",
+        bio: "Some information about the speaker",
+        company: "Post-Doctoral Fellow",
         link: {
-          href: "http://github.com/stevie",
-          text: "@stevie"
+          href: "https://www.researchgate.net/",
+          text: "HomePage"
         },
         presentation: {
-          title: "Presenting iPad",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "14h00"
+          title: "Title",
+          description: "Short description",
+          time: "10:00 AM"
         }
       },
       {
-        name: "Coffee-break",
-        time: "15h00"
+        name: "Coffee Break",
+        time: "10:30 AM"
       },
       {
-        name: "Mark Zuckerberg",
+        name: "FirstName LastName",
         photo: "themes/yellow-swan/img/speaker.png",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Facebook",
+        bio: "Some information about the speaker",
+        company: "Post-Doctoral Fellow",
         link: {
-          href: "http://twitter.com/zuck",
-          text: "@zuck"
+          href: "https://www.researchgate.net/",
+          text: "HomePage"
         },
         presentation: {
-          title: "Revealing Facebook Secrets",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "16h00"
+          title: "Title",
+          description: "Short description",
+          time: "11:00 AM"
         }
       },
       {
-        name: "Steve Wozniak",
+        name: "FirstName LastName",
         photo: "themes/yellow-swan/img/speaker.png",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Apple, Inc.",
+        bio: "Some information about the speaker",
+        company: "Post-Doctoral Fellow",
         link: {
-          href: "http://twitter.com/woz",
-          text: "@woz"
+          href: "https://www.researchgate.net/",
+          text: "HomePage"
         },
         presentation: {
-          title: "Why do I prefer Android over iPhone",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "17h00"
+          title: "Title",
+          description: "Short description",
+          time: "11:20 AM"
+        }
+      },
+      {
+        name: "FirstName LastName",
+        photo: "themes/yellow-swan/img/speaker.png",
+        bio: "Some information about the speaker",
+        company: "Post-Doctoral Fellow",
+        link: {
+          href: "https://www.researchgate.net/",
+          text: "HomePage"
+        },
+        presentation: {
+          title: "Title",
+          description: "Short description",
+          time: "11:40 AM"
+        }
+      },
+      {
+        name: "FirstName LastName",
+        photo: "themes/yellow-swan/img/speaker.png",
+        bio: "Some information about the speaker",
+        company: "Post-Doctoral Fellow",
+        link: {
+          href: "https://www.researchgate.net/",
+          text: "HomePage"
+        },
+        presentation: {
+          title: "Title",
+          description: "Short description",
+          time: "12:00 PM"
+        }
+      },
+      {
+        name: "Lunch Break",
+        time: "12:30 PM"
+      },
+      {
+        name: "FirstName LastName",
+        photo: "themes/yellow-swan/img/speaker.png",
+        bio: "Some information about the speaker",
+        company: "Post-Doctoral Fellow",
+        link: {
+          href: "https://www.researchgate.net/",
+          text: "HomePage"
+        },
+        presentation: {
+          title: "Title",
+          description: "Short description",
+          time: "14:30 PM"
+        }
+      },
+      {
+        name: "FirstName LastName",
+        photo: "themes/yellow-swan/img/speaker.png",
+        bio: "Some information about the speaker",
+        company: "Post-Doctoral Fellow",
+        link: {
+          href: "https://www.researchgate.net/",
+          text: "HomePage"
+        },
+        presentation: {
+          title: "Title",
+          description: "Short description",
+          time: "14:50 PM"
+        }
+      },
+      {
+        name: "FirstName LastName",
+        photo: "themes/yellow-swan/img/speaker.png",
+        bio: "Some information about the speaker",
+        company: "Post-Doctoral Fellow",
+        link: {
+          href: "https://www.researchgate.net/",
+          text: "HomePage"
+        },
+        presentation: {
+          title: "Title",
+          description: "Short description",
+          time: "15:10 PM"
+        }
+      },
+      {
+        name: "FirstName LastName",
+        photo: "themes/yellow-swan/img/speaker.png",
+        bio: "Some information about the speaker",
+        company: "Post-Doctoral Fellow",
+        link: {
+          href: "https://www.researchgate.net/",
+          text: "HomePage"
+        },
+        presentation: {
+          title: "Title",
+          description: "Short description",
+          time: "15:30 PM"
         }
       }
     ],
