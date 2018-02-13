@@ -279,8 +279,18 @@ module.exports = {
     partners: [
       {
         name: "PastEvents",
-        logo: "themes/yellow-swan/img/pastevent.png",
-        url: "https://github.com/CEPCEB-Postdoc-Symposium/pastevents/raw/master/pastevents.pdf"
+        logo: "themes/yellow-swan/img/2015a.jpg",
+        url: "themes/yellow-swan/img/2015.jpg"
+      },
+      {
+        name: "PastEvents",
+        logo: "themes/yellow-swan/img/2016a.jpg",
+        url: "themes/yellow-swan/img/2016.jpg"
+      },
+      {
+        name: "PastEvents",
+        logo: "themes/yellow-swan/img/2017a.jpg",
+        url: "themes/yellow-swan/img/2017.jpg"
       }
     ],
     // Theme path
