@@ -1,7 +1,7 @@
-<h2 class="section-title"><%= @labels['partners'] %></h2>
-<ul class="partners-list">
+<h2 class="section-title"><%= @labels['pastevents'] %></h2>
+<ul class="pastevents-list">
 
-<% for partner in @partners: %>
+<% for partner in @pastevents: %>
   <li class="partner-item" itemscope itemtype="http://schema.org/Organization">
     <a href="<%= partner.url %>" class="partner-logo partner-link" itemprop="url" target="_blank">
       <img src="<%= partner.logo %>" alt="<%= partner.name %>" class="photo" itemprop="image">

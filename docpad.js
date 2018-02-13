@@ -39,7 +39,7 @@ module.exports = {
       'speakers',
       'schedule',
       'location',
-	'partners',
+	'pastevents',
       'contact'
     ],
 
@@ -49,8 +49,8 @@ module.exports = {
       location: "Location",
       speakers: "Speakers",
       schedule: "Schedule",
-      partners: "Past Events",
-      contact: "Contact"
+      pastevents: "Past Events",
+      contact: "Organizing Committee"
     },
 
     // The entire schedule
@@ -264,8 +264,8 @@ module.exports = {
       }
     ],
 
-// List of Partners
-    partners: [
+// List of pastevents
+    pastevents: [
       {
         name: "PastEvents",
         logo: "themes/yellow-swan/img/2015a.jpg",
