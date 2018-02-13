@@ -39,7 +39,6 @@ module.exports = {
       'speakers',
       'schedule',
       'location',
-	'sponsors',
 	'partners',
       'contact'
     ],
@@ -50,7 +49,6 @@ module.exports = {
       location: "Location",
       speakers: "Speakers",
       schedule: "Schedule",
-      sponsors: "Sponsors",
       partners: "Past Events",
       contact: "Contact"
     },
@@ -263,15 +261,6 @@ module.exports = {
           description: "Short description",
           time: "15:30 PM"
         }
-      }
-    ],
-
-    // List of Sponsors
-    sponsors: [
-      {
-        name: "CEPCEB",
-        logo: "themes/yellow-swan/img/sponsor.png",
-        url: "http://cepceb.ucr.edu/"
       }
     ],
 
