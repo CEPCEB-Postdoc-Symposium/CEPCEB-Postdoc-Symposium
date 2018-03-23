@@ -56,17 +56,21 @@ module.exports = {
     // The entire schedule
     schedule: [
       {
-        name: "Opening Remarks",
+        name: "Breakfast/Registration",
         time: "8:30 AM"
       },
       {
-        name: "FirstName LastName",
-        photo: "themes/yellow-swan/img/speaker.png",
-        bio: "Some information about the speaker",
-        company: "Post-Doctoral Fellow",
+        name: "Opening Remarks",
+        time: "8:55 AM"
+      },
+      {
+        name: "Steve A. Kay, Ph.D., D.Sc.",
+        photo: "themes/yellow-swan/img/steve-kay.jpg",
+        bio: "Director of Convergent Biosciences. Provost Professor of Neurology, Biomedical Engineering and Biological Sciences",
+        company: "University of Southern California",
         link: {
-          href: "https://www.researchgate.net/",
-          text: "HomePage"
+          href: "https://dornsife.usc.edu/labs/kay-laboratory/",
+          text: "Steve Kay Lab"
         },
         presentation: {
           title: "Title",
@@ -261,6 +265,10 @@ module.exports = {
           description: "Short description",
           time: "15:30 PM"
         }
+      },
+      {
+        name: "Reception/Poster Presentation",
+        time: "5:00 PM"
       }
     ],
 
