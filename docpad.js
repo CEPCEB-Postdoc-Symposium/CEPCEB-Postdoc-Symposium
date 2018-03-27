@@ -21,7 +21,7 @@ module.exports = {
     // If you don't want this, just remove the callToAction property.
     callToAction: {
         text: "Register now!",
-        link: "https://goo.gl/forms/W0r7bSwgeI1ZYBis1"
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSf8DfSL9Wt9EDgaFGq6jVTNf0EY1h5VVjO0kRBsFeMzzoH8Fg/viewform"
     },
 
     // Site info
@@ -55,15 +55,7 @@ module.exports = {
 
     // The entire schedule
     schedule: [
-      {
-        name: "Breakfast/Registration",
-        time: "8:30 AM"
-      },
-      {
-        name: "Opening Remarks",
-        time: "8:55 AM"
-      },
-      {
+    {
         name: "Steve A. Kay, Ph.D., D.Sc.",
         photo: "themes/yellow-swan/img/steve-kay.jpg",
         bio: "Director of Convergent Biosciences. Provost Professor of Neurology, Biomedical Engineering and Biological Sciences",
@@ -78,6 +70,14 @@ module.exports = {
           time: "16:00 PM"
         }
       },
+	{
+        name: "Registration and Breakfast",
+        time: "8:00 AM"
+      },
+      {
+        name: "Opening Remarks",
+        time: "9:00 AM"
+      },
        {
         name: "FirstName LastName",
         photo: "themes/yellow-swan/img/speaker.png",
@@ -90,7 +90,7 @@ module.exports = {
         presentation: {
           title: "Title",
           description: "Short description",
-          time: "9:00 AM"
+          time: "9:10 AM"
         }
       },
       {
@@ -105,7 +105,7 @@ module.exports = {
         presentation: {
           title: "Title",
           description: "Short description",
-          time: "9:20 AM"
+          time: "9:30 AM"
         }
       },
       {
@@ -120,7 +120,7 @@ module.exports = {
         presentation: {
           title: "Title",
           description: "Short description",
-          time: "9:40 AM"
+          time: "9:50 AM"
         }
       },
       {
@@ -135,12 +135,12 @@ module.exports = {
         presentation: {
           title: "Title",
           description: "Short description",
-          time: "10:00 AM"
+          time: "10:10 AM"
         }
       },
       {
         name: "Coffee Break",
-        time: "10:30 AM"
+        time: "10:40 AM"
       },
       {
         name: "FirstName LastName",
@@ -218,7 +218,7 @@ module.exports = {
         presentation: {
           title: "Title",
           description: "Short description",
-          time: "14:30 PM"
+          time: "14:00 PM"
         }
       },
       {
@@ -233,7 +233,7 @@ module.exports = {
         presentation: {
           title: "Title",
           description: "Short description",
-          time: "14:50 PM"
+          time: "14:20 PM"
         }
       },
       {
@@ -248,7 +248,7 @@ module.exports = {
         presentation: {
           title: "Title",
           description: "Short description",
-          time: "15:10 PM"
+          time: "14:40 PM"
         }
       },
       {
@@ -263,11 +263,15 @@ module.exports = {
         presentation: {
           title: "Title",
           description: "Short description",
-          time: "15:30 PM"
+          time: "15:00 PM"
         }
       },
       {
-        name: "Reception/Poster Presentation",
+        name: "Coffee Break",
+	time: "15:30 PM"
+      },
+      {
+        name: "Poster session with Refreshments",
         time: "5:00 PM"
       }
     ],

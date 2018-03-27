@@ -1,10 +1,7 @@
-<h2 class="section-title"><%= @labels['about'] %></h2>
-<p itemprop="description">Some descrption....</p>
+<h2 class="section-title"><%= @labels[''] %></h2>
 
-<p>Under Construction</p>
+<p> <strong> 5th Annual CEPCEB Postdoc Symposium </strong> </p>
 
-<p> Dear CEPCEB/IIGB community,
-
-Please join us on June 1st, 2018 for the 5th Annual postdoc symposium which will embrace all graduate students and postdoctoral scholars in  our CEPCEB/IIGB community. Selected community member will share their research in either oral or poster presentations. The keynote talk will be given by distinguished Professor Dr. Steve Kay from USC. Lunch and refreshments will be provided throughout the day.
-We greatly look forward to seeing you and your presented research! <p>
+<p> Please join us on June 1st, 2018 for the 5th Annual postdoc symposium which will embrace all graduate students and postdoctoral scholars in  our CEPCEB/IIGB community. Selected community member will share their research in either oral or poster presentations. The keynote talk will be given by distinguished Professor Dr. Steve Kay from USC. Lunch and refreshments will be provided throughout the day.
+We greatly look forward to seeing you and your presented research! </p>
 
