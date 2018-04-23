@@ -103,7 +103,7 @@ module.exports = {
           text: "HomePage"
         },
         presentation: {
-          title: "Characterizing TANGLED1 Function in Arabidopsis thaliana Using a Synthetic Double Mutant",
+          title: "Title",
           description: "Short description",
           time: "9:30 AM"
         }
@@ -118,7 +118,7 @@ module.exports = {
           text: "HomePage"
         },
         presentation: {
-          title: "Molecular mechanism of Huanglongbing pathogenesis",
+          title: "Title",
           description: "Short description",
           time: "9:50 AM"
         }
@@ -146,7 +146,7 @@ module.exports = {
         name: "Jiang Li",
         photo: "themes/yellow-swan/img/speaker.png",
         bio: "Some information about the speaker",
-        company: "Postdoctoral Researcher",
+        company: "Post-Doctoral Fellow",
         link: {
           href: "https://www.researchgate.net/",
           text: "HomePage"
@@ -239,10 +239,10 @@ module.exports = {
       {
         name: "Bailong Zhang",
         photo: "themes/yellow-swan/img/bailong_zhang.jpg",
-        bio: " I joined in Professor Xuemei Chen's lab after I got my Ph.D. at 2014 from Fudan University. I am working on plant microRNA and siRNA metabolism.",
+        bio: "I joined in Professor Xuemei Chen's lab after I got my Ph.D. at 2014 from Fudan University. I am working on plant microRNA and siRNA metabolism.",
         company: "Postdoctoral Researcher",
         link: {
-          href: "https://www.researchgate.net/profile/Bailong_Zhang",
+          href: "https://www.researchgate.net/profile/Bailong_Zhang/",
           text: "HomePage"
         },
         presentation: {
@@ -255,7 +255,7 @@ module.exports = {
         name: "Yongjian Qiu",
         photo: "themes/yellow-swan/img/speaker.png",
         bio: "Some information about the speaker",
-        company: "Assistant Project Scientist"",
+        company: "Assistant Project Scientist",
         link: {
           href: "https://www.researchgate.net/",
           text: "HomePage"
@@ -271,8 +271,8 @@ module.exports = {
 	time: "3:00 PM"
       },
       {
-	name: "Keynote Speaker:Dr. Steve Kay ",
-        time: "3:25PM"                                                                               
+        name: "Keynote Speaker:Dr. Steve Kay ",
+        time: "3:20 PM"
       },
       {
         name: "Poster session with Refreshments",
