@@ -67,22 +67,22 @@ module.exports = {
         presentation: {
           title: "Title",
           description: "Short description",
-          time: "16:00 PM"
+          time: "3:25 PM"
         }
       },
 	{
         name: "Registration and Breakfast",
-        time: "8:00 AM"
+        time: "8:30 AM"
       },
       {
         name: "Opening Remarks",
         time: "9:00 AM"
       },
        {
-        name: "FirstName LastName",
+        name: "Xiang Zhou",
         photo: "themes/yellow-swan/img/speaker.png",
         bio: "Some information about the speaker",
-        company: "Post-Doctoral Fellow",
+        company: "Postdoctoral Researcher",
         link: {
           href: "https://www.researchgate.net/",
           text: "HomePage"
@@ -94,40 +94,40 @@ module.exports = {
         }
       },
       {
-        name: "FirstName LastName",
+        name: "Alison Mills",
         photo: "themes/yellow-swan/img/speaker.png",
         bio: "Some information about the speaker",
-        company: "Post-Doctoral Fellow",
+        company: "Graduate Student",
         link: {
           href: "https://www.researchgate.net/",
           text: "HomePage"
         },
         presentation: {
-          title: "Title",
+          title: "Characterizing TANGLED1 Function in Arabidopsis thaliana Using a Synthetic Double Mutant",
           description: "Short description",
           time: "9:30 AM"
         }
       },
       {
-        name: "FirstName LastName",
+        name: "Kelly Clark",
         photo: "themes/yellow-swan/img/speaker.png",
         bio: "Some information about the speaker",
-        company: "Post-Doctoral Fellow",
+        company: "Graduate Student",
         link: {
           href: "https://www.researchgate.net/",
           text: "HomePage"
         },
         presentation: {
-          title: "Title",
+          title: "Molecular mechanism of Huanglongbing pathogenesis",
           description: "Short description",
           time: "9:50 AM"
         }
       },
       {
-        name: "FirstName LastName",
+        name: "Wiphawee Leesutthiphonchai",
         photo: "themes/yellow-swan/img/speaker.png",
         bio: "Some information about the speaker",
-        company: "Post-Doctoral Fellow",
+        company: "Graduate Student",
         link: {
           href: "https://www.researchgate.net/",
           text: "HomePage"
@@ -143,10 +143,10 @@ module.exports = {
         time: "10:40 AM"
       },
       {
-        name: "FirstName LastName",
+        name: "Jiang Li",
         photo: "themes/yellow-swan/img/speaker.png",
         bio: "Some information about the speaker",
-        company: "Post-Doctoral Fellow",
+        company: "Postdoctoral Researcher",
         link: {
           href: "https://www.researchgate.net/",
           text: "HomePage"
@@ -158,10 +158,10 @@ module.exports = {
         }
       },
       {
-        name: "FirstName LastName",
+        name: "Christi Scott",
         photo: "themes/yellow-swan/img/speaker.png",
         bio: "Some information about the speaker",
-        company: "Post-Doctoral Fellow",
+        company: "Graduate Student",
         link: {
           href: "https://www.researchgate.net/",
           text: "HomePage"
@@ -173,10 +173,10 @@ module.exports = {
         }
       },
       {
-        name: "FirstName LastName",
+        name: "Poonam (Sonia) Deol",
         photo: "themes/yellow-swan/img/speaker.png",
         bio: "Some information about the speaker",
-        company: "Post-Doctoral Fellow",
+        company: "Assistant Project Scientist",
         link: {
           href: "https://www.researchgate.net/",
           text: "HomePage"
@@ -188,10 +188,10 @@ module.exports = {
         }
       },
       {
-        name: "FirstName LastName",
+        name: "Ryan Joseph",
         photo: "themes/yellow-swan/img/speaker.png",
         bio: "Some information about the speaker",
-        company: "Post-Doctoral Fellow",
+        company: "Project Scientist",
         link: {
           href: "https://www.researchgate.net/",
           text: "HomePage"
@@ -207,10 +207,10 @@ module.exports = {
         time: "12:30 PM"
       },
       {
-        name: "FirstName LastName",
+        name: "Maureen Hummel",
         photo: "themes/yellow-swan/img/speaker.png",
         bio: "Some information about the speaker",
-        company: "Post-Doctoral Fellow",
+        company: "Postdoctoral Researcher",
         link: {
           href: "https://www.researchgate.net/",
           text: "HomePage"
@@ -218,14 +218,14 @@ module.exports = {
         presentation: {
           title: "Title",
           description: "Short description",
-          time: "14:00 PM"
+          time: "1:30 PM"
         }
       },
       {
-        name: "FirstName LastName",
+        name: "Qiang Cai",
         photo: "themes/yellow-swan/img/speaker.png",
         bio: "Some information about the speaker",
-        company: "Post-Doctoral Fellow",
+        company: "Postdoctoral Researcher",
         link: {
           href: "https://www.researchgate.net/",
           text: "HomePage"
@@ -233,29 +233,29 @@ module.exports = {
         presentation: {
           title: "Title",
           description: "Short description",
-          time: "14:20 PM"
+          time: "1:50 PM"
         }
       },
       {
-        name: "FirstName LastName",
-        photo: "themes/yellow-swan/img/speaker.png",
-        bio: "Some information about the speaker",
-        company: "Post-Doctoral Fellow",
+        name: "Bailong Zhang",
+        photo: "themes/yellow-swan/img/bailong_zhang.jpg",
+        bio: " I joined in Professor Xuemei Chen's lab after I got my Ph.D. at 2014 from Fudan University. I am working on plant microRNA and siRNA metabolism.",
+        company: "Postdoctoral Researcher",
         link: {
-          href: "https://www.researchgate.net/",
+          href: "https://www.researchgate.net/profile/Bailong_Zhang",
           text: "HomePage"
         },
         presentation: {
-          title: "Title",
+          title: "Linking Key Steps of Plant miRNA Biogenesis by TREX-2 and the Nuclear Pore Complex",
           description: "Short description",
-          time: "14:40 PM"
+          time: "2:10 PM"
         }
       },
       {
-        name: "FirstName LastName",
+        name: "Yongjian Qiu",
         photo: "themes/yellow-swan/img/speaker.png",
         bio: "Some information about the speaker",
-        company: "Post-Doctoral Fellow",
+        company: "Assistant Project Scientist"",
         link: {
           href: "https://www.researchgate.net/",
           text: "HomePage"
@@ -263,16 +263,20 @@ module.exports = {
         presentation: {
           title: "Title",
           description: "Short description",
-          time: "15:00 PM"
+          time: "2:30 PM"
         }
       },
       {
         name: "Coffee Break",
-	time: "15:30 PM"
+	time: "3:00 PM"
+      },
+      {
+	name: "Keynote Speaker:Dr. Steve Kay ",
+        time: "3:25PM"                                                                               
       },
       {
         name: "Poster session with Refreshments",
-        time: "5:00 PM"
+        time: "4:30 PM"
       }
     ],
 
