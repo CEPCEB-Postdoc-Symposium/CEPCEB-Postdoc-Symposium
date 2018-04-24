@@ -110,15 +110,15 @@ module.exports = {
       },
       {
         name: "Kelly Clark",
-        photo: "themes/yellow-swan/img/speaker.png",
-        bio: "Some information about the speaker",
+        photo: "themes/yellow-swan/img/kelley_clark.jpg",
+        bio: "I’m a 4 th year PhD student in the Microbiology program studying in Dr. Wenbo Ma’s lab. My PhD studies are on the currently, most devastating disease of citrus, Huanglongbing. I’m originally from Arizona, where I attended the University of Arizona and received my Bachelor’s degree in Plant Biology. My interests in the biological sciences began when I was a child as many of my family members are also in the Agricultural field. In my free time I enjoy hiking, painting, and being with my cat.",
         company: "Graduate Student",
         link: {
-          href: "https://www.researchgate.net/",
+          href: "https://twitter.com/kclar012/",
           text: "HomePage"
         },
         presentation: {
-          title: "Title",
+          title: "An effector from the Huanglongbing-associated pathogen targets a class of proteases in citrus.",
           description: "Short description",
           time: "9:50 AM"
         }
@@ -223,15 +223,15 @@ module.exports = {
       },
       {
         name: "Qiang Cai",
-        photo: "themes/yellow-swan/img/speaker.png",
-        bio: "Some information about the speaker",
+        photo: "themes/yellow-swan/img/qiang_cai.jpg",
+        bio: "I joined in Professor Hailing Jin's lab after I got my Ph.D. at 2014 from Shanghai Jiaotong University. I am working on plant extracellular vesicles and sRNA trafficking in plant immunity.",
         company: "Postdoctoral Researcher",
         link: {
-          href: "https://www.researchgate.net/",
+          href: "https://scholar.google.com/citations?user=vJ2cdBsAAAAJ&hl=en",
           text: "HomePage"
         },
         presentation: {
-          title: "Title",
+          title: "Plants secrete extracellular vesicles to deliver small RNAs into a fungal pathogen to silence its virulence genes.",
           description: "Short description",
           time: "1:50 PM"
         }
