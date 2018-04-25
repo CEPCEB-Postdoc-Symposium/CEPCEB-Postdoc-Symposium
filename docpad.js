@@ -125,15 +125,15 @@ module.exports = {
       },
       {
         name: "Wiphawee Leesutthiphonchai",
-        photo: "themes/yellow-swan/img/speaker.png",
-        bio: "Some information about the speaker",
+        photo: "themes/yellow-swan/img/wiphawee_leesutthiphonchai.png",
+        bio: "Wiphawee is a fourth year PhD Candidate in Plant Pathology program working under supervision of Dr.Howard Judelson. Her research focuses on a transcription factor involved in sporulation of the plant pathogen Phytophthora infestans. Her work helps to understand how the transcription factor regulates sporulation, which is a key stage for spore formation and plant infection.",
         company: "Graduate Student",
         link: {
-          href: "https://www.researchgate.net/",
+          href: "https://oomyceteworld.net/Others.html",
           text: "HomePage"
         },
         presentation: {
-          title: "Title",
+          title: "Transcriptional networks controlling sporulation of Phytophthora infestans: towards saving potato from late blight.",
           description: "Short description",
           time: "10:10 AM"
         }
@@ -144,15 +144,15 @@ module.exports = {
       },
       {
         name: "Jiang Li",
-        photo: "themes/yellow-swan/img/speaker.png",
-        bio: "Some information about the speaker",
+        photo: "themes/yellow-swan/img/jiang_li.jpg",
+        bio: "Jiang is a postdoc in Dr. Nair’s Lab in UCR School of Medicine. He received his PhD degree from Fudan university in China. He works in Nair Lab and focus on the function of human Resistin protein in inflammation. They found that human Resistin decreases the pro-inflammatory cytokines by binding to Toll-like receptor 4. This binding blocks TLR4 signaling in immune and inflammatory cells when challenged by Lipopolysaccharide.",
         company: "Post-Doctoral Fellow",
         link: {
-          href: "https://www.researchgate.net/",
+          href: "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F7efWd_jERoS77FwwNrtwkSN9rEPH6XBN9-v7CXksYQd96rTCtZQJHUhnw2Xc_8-93ATbj0fosUsI8r7G4haNKjy7igwXrptGOmQf38MngFNFBqkNY&user=e2hhObIAAAAJ",
           text: "HomePage"
         },
         presentation: {
-          title: "Title",
+          title: "Resistin therapeutics in Lipopolysaccharide induced sepsis.",
           description: "Short description",
           time: "11:00 AM"
         }
@@ -253,15 +253,15 @@ module.exports = {
       },
       {
         name: "Yongjian Qiu",
-        photo: "themes/yellow-swan/img/speaker.png",
-        bio: "Some information about the speaker",
+        photo: "themes/yellow-swan/img/yongjian_qiu.jpg",
+        bio: "My name is Yongjian Qiu. I got my B.S. degree from University of Science and Technology of China (USTC) in 2006. In the same year, I started my graduate studies in the Department of Horticulture and Landscape Architecture at Washington State University, Pullman, WA. My graduate research in Dr. Joe Poovaiah's laboratory focused on functional characterization of calcium- and calcium/calmodulin-binding proteins in plant defense against abiotic and biotic stresses. I got my Ph.D. degree in July 2011 and subsequently I joined Dr. Meng Chen's laboratory as a Postdoctoral Associate in the Department of Biology at Duke University, Durham, NC. I continued my research as an Assistant Project Scientist in Dr. Meng Chen's laboratory after the lab moved to University of California, Riverside in late 2015. My project in Dr. Meng Chen's laboratory focuses on understanding the detailed mechanism of phytochrome signaling in regulating light- and temperature-mediated plant growth.",
         company: "Assistant Project Scientist",
         link: {
-          href: "https://www.researchgate.net/",
+          href: "https://scholar.google.com/citations?user=hwDBLkMAAAAJ&hl=en",
           text: "HomePage"
         },
         presentation: {
-          title: "Title",
+          title: "Mechanism of phytochrome-mediated thermomorphogenesis.",
           description: "Short description",
           time: "2:30 PM"
         }
