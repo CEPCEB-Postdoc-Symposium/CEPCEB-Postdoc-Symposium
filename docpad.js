@@ -284,11 +284,6 @@ module.exports = {
     pastevents: [
       {
         name: "PastEvents",
-        logo: "themes/yellow-swan/img/2014a.jpg",
-        url: "themes/yellow-swan/img/2014.jpg"
-      },
-      {
-        name: "PastEvents",
         logo: "themes/yellow-swan/img/2015a.jpg",
         url: "themes/yellow-swan/img/2015.jpg"
       },
