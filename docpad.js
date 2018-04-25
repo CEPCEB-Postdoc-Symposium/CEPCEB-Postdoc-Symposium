@@ -95,15 +95,15 @@ module.exports = {
       },
       {
         name: "Alison Mills",
-        photo: "themes/yellow-swan/img/speaker.png",
-        bio: "Some information about the speaker",
+        photo: "themes/yellow-swan/img/alison_mills.png",
+        bio: "Alison Mills is a second year PhD student in the UCR Biochemistry and Molecular Biology Department. She works in the Rasmussen lab investigating cell division orientation in Arabidopsis and maize. She received her undergraduate degree in biochemistry and molecular biology and a Masters in biotechnology from the University of California, Irvine. Her current research investigates the function of the division plane marker, TANGLED1, in Arabidopsis, and the role of the microtubule severing protein, KATANIN, in cell division in maize. Outside of lab, her interests include reading science fiction and tabletop roleplaying games.",
         company: "Graduate Student",
         link: {
-          href: "https://www.researchgate.net/",
+          href: "https://www.linkedin.com/in/alison-mills-824022162/",
           text: "HomePage"
         },
         presentation: {
-          title: "Title",
+          title: "It Takes Two: TANGLED1 and AIR9 are Both Required For Proper Division Plane Orientation in Arabidopsis thaliana.",
           description: "Short description",
           time: "9:30 AM"
         }
