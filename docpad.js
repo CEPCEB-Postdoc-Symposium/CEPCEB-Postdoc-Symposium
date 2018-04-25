@@ -189,15 +189,15 @@ module.exports = {
       },
       {
         name: "Ryan Joseph",
-        photo: "themes/yellow-swan/img/speaker.png",
-        bio: "Some information about the speaker",
+        photo: "themes/yellow-swan/img/ryan_joseph.png",
+        bio: "Ryan began studying insects as an undergraduate researcher at the University of California, Berkeley, where he conducted biochemical experiments testing a new mutagenesis technique in Drosophila melanogaster. After graduating, he attended graduate school at the University of California, San Francisco, where he began studying the neurons that mediate insect behaviors, with the goal of understanding how agricultural pests interact with their environment and ultimately select locations for egg-laying, foraging, and feeding. Specifically, under the guidance of Dr. Ulrike Heberlein, he investigated competing egg-laying and feeding preferences in Drosophila for ecologically-relevant chemicals that are present in fermenting fruits, and his findings helped establish egg-laying site selection as a model for decision making in Drosophila. After receiving his Ph.D., Ryan continued to study the neural basis of insect feeding behaviors during his postdoctoral fellowship at Yale University. Under the supervision of Dr. John Carlson, he identified a critical neuron in the Drosophila pharynx that expresses a unique taste-receptor not present elsewhere in the fly. Surprisingly, he discovered that although this neuron is responsive to sugars like sucrose, activation of this sweet-sensitive cell leads to the suppression of consumption, rather than the promotion of feeding. These findings demonstrated a new type of circuit logic in how insects inhibit feeding behaviors. Upon completion of his fellowship, Ryan subsequently joined Dr. Anupama Dahanukar’s laboratory at the University of California, Riverside, where he has continued his investigations into feeding suppression in Drosophila, in order to better understand neural pathways that could lead to advances in the control of environmental and agricultural insect pests.",
         company: "Project Scientist",
         link: {
-          href: "https://www.researchgate.net/",
+          href: "www.linkedin.com/in/ryan-joseph-95630a2",
           text: "HomePage"
         },
         presentation: {
-          title: "Title",
+          title: "Employing Drosophila melanogaster to uncover fast-acting neural mechanisms that inhibit insect feeding.",
           description: "Short description",
           time: "12:00 PM"
         }
@@ -271,7 +271,7 @@ module.exports = {
 	time: "3:00 PM"
       },
       {
-        name: "Keynote Speaker:Dr. Steve Kay ",
+        name: "Keynote Speaker Introduction ",
         time: "3:20 PM"
       },
       {
@@ -282,6 +282,11 @@ module.exports = {
 
 // List of pastevents
     pastevents: [
+      {
+        name: "PastEvents",
+        logo: "themes/yellow-swan/img/2014a.jpg",
+        url: "themes/yellow-swan/img/2014.jpg"
+      },
       {
         name: "PastEvents",
         logo: "themes/yellow-swan/img/2015a.jpg",
