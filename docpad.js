@@ -80,15 +80,15 @@ module.exports = {
       },
        {
         name: "Xiang Zhou",
-        photo: "themes/yellow-swan/img/speaker.png",
-        bio: "Some information about the speaker",
+        photo: "themes/yellow-swan/img/xiang_zhou.jpg",
+        bio: "Dr. Xiang Zhou obtained his B.S. Degree at China agricultural University in 2010 and completed his M.S. and Ph.D. Degree at Shanghai Institute of plant biology and Ecology, Chinese Academic of Science in 2016. Then he joined Dr. Yang’s lab at UCR in Oct. 2016.",
         company: "Postdoctoral Researcher",
         link: {
-          href: "https://www.researchgate.net/",
+          href: "https://scholar.google.com/citations?user=vfg-fEwAAAAJ&hl=en&authuser=1",
           text: "HomePage"
         },
         presentation: {
-          title: "Title",
+          title: "The invasive growth, “Male-female interaction during pollen tube penetration”.",
           description: "Short description",
           time: "9:10 AM"
         }
