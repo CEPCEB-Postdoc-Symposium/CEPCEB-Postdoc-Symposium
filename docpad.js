@@ -109,7 +109,7 @@ module.exports = {
         }
       },
       {
-        name: "Kelly Clark",
+        name: "Kelley Clark",
         photo: "themes/yellow-swan/img/kelley_clark.jpg",
         bio: "I’m a 4 th year PhD student in the Microbiology program studying in Dr. Wenbo Ma’s lab. My PhD studies are on the currently, most devastating disease of citrus, Huanglongbing. I’m originally from Arizona, where I attended the University of Arizona and received my Bachelor’s degree in Plant Biology. My interests in the biological sciences began when I was a child as many of my family members are also in the Agricultural field. In my free time I enjoy hiking, painting, and being with my cat.",
         company: "Graduate Student",
