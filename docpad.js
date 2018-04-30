@@ -209,14 +209,14 @@ module.exports = {
       {
         name: "Maureen Hummel",
         photo: "themes/yellow-swan/img/maureen_hummel.jpg",
-        bio: "",
-        company: "Postdoctoral Researcher",
+        bio: "After I got my MSc diploma from Wageningen University, Wageningen, Netherlands I started as a graduate student at Utrecht University, Utrecht, Netherlands. In the group of Prof. Dr. Sjef Smeekens I studied post-transcriptional gene regulation in response to carbon availability in Arabidopsis. I investigated the sucrose-induced repression of translation (SIRT) mechanism on the bZIP11 mRNA and changes in ribosome heterogeneity in response to a high sucrose treatment. In May of 2011, I became a postdoctoral scholar in the group of Dr. Julia Bailey-Serres at UC Riverside. As post-doctoral scholar I was involved in the Arabidopsis 2010: Deciphering mRNP Networks project in which we studied the role of under characterized or uncharacterized RNA binding proteins in post-transcriptional gene regulation in Arabidopsis in response to abiotic stresses. Although most of my studies I have performed in Arabidopsis, more recently as an assistant project scientist, I got involved in different projects that study post-transcriptional gene regulation in different plant model species such as rice and maize. At the symposium I will present my studies on how a plant balances translation and sequestration of mRNAs in response to energy availability.",
+        company: "Assistant Project Scientist",
         link: {
           href: "https://www.linkedin.com/in/maureen-hummel-4250893/",
           text: "HomePage"
         },
         presentation: {
-          title: "Balancing translation and sequestration of mRNAs to maintain energy homeostasis",
+          title: "Balancing translation and sequestration of mRNAs to maintain energy homeostasis.",
           description: "Short description",
           time: "1:30 PM"
         }
