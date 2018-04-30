@@ -212,7 +212,7 @@ module.exports = {
         bio: "",
         company: "Postdoctoral Researcher",
         link: {
-          href: "https://www.researchgate.net/profile/Maureen_Hummel",
+          href: "https://www.linkedin.com/in/maureen-hummel-4250893/",
           text: "HomePage"
         },
         presentation: {
