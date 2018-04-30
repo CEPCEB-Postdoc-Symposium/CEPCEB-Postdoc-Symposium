@@ -174,15 +174,15 @@ module.exports = {
       },
       {
         name: "Poonam (Sonia) Deol",
-        photo: "themes/yellow-swan/img/speaker.png",
-        bio: "Some information about the speaker",
+        photo: "themes/yellow-swan/img/sonia_deol.jpg",
+        bio: "I completed my Bachelor’s degree from Punjab Agricultural University (India) with a major in Food Science and Technology. I moved to the U.S. for my MS degree in Food Science at Iowa State University and subsequently earned my PhD in Biomedical Sciences under the mentorship of Dr. Christian Lytle at UCR. I am currently working as an Assistant Project Scientist in the lab of Dr. Frances Sladek where my research is aimed at determining the dietary factors involved in the development of metabolic and intestinal diseases and understanding their mechanism of action.",
         company: "Assistant Project Scientist",
         link: {
-          href: "https://www.researchgate.net/",
+          href: "https://www.linkedin.com/in/poonamjot-deol-98a6025b/",
           text: "HomePage"
         },
         presentation: {
-          title: "Title",
+          title: "Soybean Oil Induced Health Effects: Liver, Gut and Brain.",
           description: "Short description",
           time: "11:40 AM"
         }
