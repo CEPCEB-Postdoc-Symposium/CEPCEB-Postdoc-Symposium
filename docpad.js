@@ -65,7 +65,7 @@ module.exports = {
           text: "Steve Kay Lab"
         },
         presentation: {
-          title: "Title",
+          title: "",
           description: "Short description",
           time: "3:25 PM"
         }
@@ -209,7 +209,7 @@ module.exports = {
       {
         name: "Maureen Hummel",
         photo: "themes/yellow-swan/img/maureen_hummel.jpg",
-        bio: "Some information about the speaker",
+        bio: "",
         company: "Postdoctoral Researcher",
         link: {
           href: "https://www.researchgate.net/profile/Maureen_Hummel",
