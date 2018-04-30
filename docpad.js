@@ -49,7 +49,7 @@ module.exports = {
       location: "Location",
       speakers: "Speakers",
       schedule: "Schedule",
-      pastevents: "Past Events",
+      pastevents: "Previous Events",
       contact: "Organizing Committee"
     },
 
@@ -208,15 +208,15 @@ module.exports = {
       },
       {
         name: "Maureen Hummel",
-        photo: "themes/yellow-swan/img/speaker.png",
+        photo: "themes/yellow-swan/img/maureen_hummel.jpg",
         bio: "Some information about the speaker",
         company: "Postdoctoral Researcher",
         link: {
-          href: "https://www.researchgate.net/",
+          href: "https://www.researchgate.net/profile/Maureen_Hummel",
           text: "HomePage"
         },
         presentation: {
-          title: "Title",
+          title: "Balancing translation and sequestration of mRNAs to maintain energy homeostasis",
           description: "Short description",
           time: "1:30 PM"
         }
@@ -282,6 +282,11 @@ module.exports = {
 
 // List of pastevents
     pastevents: [
+      {
+        name: "PastEvents",
+        logo: "themes/yellow-swan/img/2014a.jpg",
+        url: "themes/yellow-swan/img/2014.jpeg"
+      },
       {
         name: "PastEvents",
         logo: "themes/yellow-swan/img/2015a.jpg",
