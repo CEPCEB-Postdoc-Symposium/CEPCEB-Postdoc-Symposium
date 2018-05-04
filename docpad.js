@@ -65,7 +65,7 @@ module.exports = {
           text: "Steve Kay Lab"
         },
         presentation: {
-          title: "",
+          title: "Grow Up! The Circadian Clock as the Master Regulator of Plant Environmental Responses",
           description: "Short description",
           time: "3:25 PM"
         }
@@ -75,7 +75,7 @@ module.exports = {
         time: "8:30 AM"
       },
       {
-        name: "Opening Remarks",
+        name: "Opening Remarks - Dr. Julia Bailey-Serres ",
         time: "9:00 AM"
       },
        {
@@ -271,7 +271,11 @@ module.exports = {
 	time: "3:00 PM"
       },
       {
-        name: "Keynote Speaker Introduction ",
+        name: "Keynote Speaker Introduction - Dr. Dawn Nagel",
+        time: "3:20 PM"
+      },
+      {
+        name: "Closing Remarks - Dr. Katayoon Dehesh",
         time: "3:20 PM"
       },
       {
