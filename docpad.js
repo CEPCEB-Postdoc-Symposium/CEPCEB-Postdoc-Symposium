@@ -276,7 +276,7 @@ module.exports = {
       },
       {
         name: "Closing Remarks - Dr. Katayoon Dehesh",
-        time: "3:20 PM"
+        time: "4:25 PM"
       },
       {
         name: "Poster session with Refreshments",
