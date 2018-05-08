@@ -276,12 +276,26 @@ module.exports = {
       },
       {
         name: "Closing Remarks - Dr. Katayoon Dehesh",
-        time: "4:25 PM"
+        time: "4:25 PM",
+	title: "test"
       },
       {
-        name: "Poster session with Refreshments",
-        time: "4:30 PM"
-      }
+        name: "Poster Session",
+        photo: "themes/yellow-swan/img/SymposiumLogo.png",
+        bio: "",
+        company: "",
+        link: {
+          href: "themes/yellow-swan/img/CPS2018_Poster.pdf",
+          text: "Click here to see the list of Posters Presentatios"
+        },
+        presentation: {
+          title: "Poster session with Refreshments",
+          description: "Short description",
+          time: "4:30 PM"
+        }
+      },
+
+
     ],
 
 // List of pastevents
