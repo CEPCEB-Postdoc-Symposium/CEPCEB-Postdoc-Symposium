@@ -165,7 +165,7 @@ module.exports = {
         bio: "I am a graduate student in the Cell, Molecular, Developmental Biology program interested in understanding gene expression changes in the nervous system after sensory stimulation. Working in the lab of Dr. Anand Ray, our research focuses on the genes that are altered in Drosophila after short- and long- term exposure to odorants. I am interested in understanding how these genes are regulated and how their expression is altered with aging. In addition to research, I am passionate about teaching and science outreach.",
         company: "Graduate Student",
         link: {
-          href: "https://www.researchgate.net/",
+          href: "http://www.olfaction.ucr.edu/people.html",
           text: "HomePage"
         },
         presentation: {
