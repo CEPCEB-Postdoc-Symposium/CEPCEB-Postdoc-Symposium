@@ -1,11 +1,18 @@
 <h2 class="section-title"><%= @labels[''] %></h2>
-
 <p> <strong> 5th Annual CEPCEB Postdoc Symposium </strong> </p>
+<style>
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+</style>
+
 
 <p> Please join us on June 1st, 2018 for the 5th Annual postdoc symposium which will embrace all graduate students and postdoctoral scholars in  our CEPCEB/IIGB community. Selected community member will share their research in either oral or poster presentations. The keynote talk will be given by distinguished Professor Dr. Steve Kay from USC. Lunch and refreshments will be provided throughout the day.
 We greatly look forward to seeing you and your presented research! </p>
 
-<p> <a href="themes/yellow-swan/img/CPS2018_Program.pdf">Check here the 2018 Poster</a></p>
-
-
-
+<p> <a href="themes/yellow-swan/img/CPS2018_Program.pdf">Check here the 2018 Poster</a>
+<a href="themes/yellow-swan/img/CPS2018_Program.pdf">
+<img src="themes/yellow-swan/img/CPS2018_Program.png" width="150" height="200" class="center">
+</a></p>
