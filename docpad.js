@@ -77,7 +77,7 @@ module.exports = {
         time: "8:30 AM"
       },
       {
-        name: "Opening Remarks - Daniela Cassol, Postdoc"
+        name: "Opening Remarks - Daniela Cassol, Postdoc",
         time: "9:00 AM"
       },
        {
