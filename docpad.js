@@ -77,7 +77,7 @@ module.exports = {
         time: "8:30 AM"
       },
       {
-        name: "Opening Remarks - Dr. Julia Bailey-Serres ",
+        name: "Opening Remarks - Daniela Cassol, Postdoc"
         time: "9:00 AM"
       },
        {
@@ -277,7 +277,7 @@ module.exports = {
         time: "3:20 PM"
       },
       {
-        name: "Closing Remarks - Dr. Katayoon Dehesh",
+        name: "Closing Remarks - Patricio Pérez-Henríquez, Postdoc",
         time: "4:25 PM"
 	},
       {
