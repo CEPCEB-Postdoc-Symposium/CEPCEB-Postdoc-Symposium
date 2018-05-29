@@ -40,6 +40,7 @@ module.exports = {
 	'posters',
       'schedule',
       'location',
+	'sponsors',
 	'pastevents',
       'contact'
     ],
@@ -51,6 +52,7 @@ module.exports = {
       speakers: "Speakers",
 	posters: "Posters Presentation",
       schedule: "Schedule",
+	sponsors: "Sponsors",
       pastevents: "Previous Events",
       contact: "Organizing Committee"
     },
@@ -292,6 +294,14 @@ module.exports = {
         name: "PastEvents",
         logo: "themes/yellow-swan/img/SymposiumLogo_posters.png",
         url: "themes/yellow-swan/img/CPS2018_Poster.pdf"
+      }
+    ],
+// List of sponsors
+    sponsors: [
+      {
+        name: "PacBio",
+        logo: "themes/yellow-swan/img/pacbio.png",
+        url: "https://www.pacb.com/"
       }
     ],
 
