@@ -1,18 +1,27 @@
 <h2 class="section-title"><%= @labels[''] %></h2>
-<p> <strong> 5th Annual CEPCEB Postdoc Symposium </strong> </p>
-<style>
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-</style>
+<p> <strong> <a href="themes/yellow-swan/img/CPS2018_Program.pdf">5th Annual CEPCEB Postdoc Symposium</a></strong> </p>
 
 
-<p> Please join us on June 1st, 2018 for the 5th Annual postdoc symposium which will embrace all graduate students and postdoctoral scholars in  our CEPCEB/IIGB community. Selected community member will share their research in either oral or poster presentations. The keynote talk will be given by distinguished Professor Dr. Steve Kay from USC. Lunch and refreshments will be provided throughout the day.
-We greatly look forward to seeing you and your presented research! </p>
+<p> Dear IIGB community members,</p>
 
-<p> <a href="themes/yellow-swan/img/CPS2018_Program.pdf">Check here the 2018 Poster</a>
-<a href="themes/yellow-swan/img/CPS2018_Program.pdf">
-<img src="themes/yellow-swan/img/CPS2018_Program.png" width="150" height="200" class="center">
+<p>On behalf of all members of the organization, we want to thank you for attending the 5th Annual CEPCEB PostDoc symposium on June 1, 2018.</p>
+
+<p>We would like to take this opportunity to express our great appreciation to all the speakers for their excellent presentations and posters and for sharing their exciting research. 
+Your presence helped to make this event a great success. We wish you all the best and hope that this event may help further new ideas, cross-pollination, and enhance the great ongoing
+science here at UCR. </p>
+
+<p>Our special thank you to Professor Dr. Steve Kay for his inspiring talk. Our sincere gratitude and appreciation to Director Dr. Julia Baley-Serres for all the support and suggestions in the organization of this symposium. Many thanks as well to our excellent staff who were essential and generous with for their help and time: Aimee Gonzalez, Jennifer Douglas, and Aurelia Espinoza. </p>
+
+<p>Sincerely,</p>
+<p>Organizing Committee</p>
+
+<p> <a href="https://www.flickr.com/gp/157539724@N06/ow77Zh">Check here the photos of the event</a></p>
+
+<p><a href="https://www.flickr.com/gp/157539724@N06/ow77Zh">
+<img src="themes/yellow-swan/img/cps2018.jpeg" width="900" height="600" class="center">
 </a></p>
+
+
+
+
+
